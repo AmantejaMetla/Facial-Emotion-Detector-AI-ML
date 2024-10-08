@@ -51,6 +51,9 @@ pip install numpy
 4. Exit:
    Press the `Esc` key to close the webcam and stop the program.
 
+![Untitled](https://github.com/user-attachments/assets/08cfa968-e057-48ae-99d7-eb823c9dcfad)
+
+
 ## Notes
 
 - The webcam index is set to `cv2.VideoCapture(0)`. If it doesn't work, you might need to change the index to match your system.

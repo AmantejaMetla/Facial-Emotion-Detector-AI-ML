@@ -1,5 +1,3 @@
-Here's a `README.md` template for your "Facial Emotion Detector" project that summarizes the key elements, explains how to run the code, and includes details on what the project does:
-
 ---
 
 # Facial Emotion Detector
@@ -93,5 +91,3 @@ Feel free to fork this repository, submit pull requests, or open issues if you h
 - **OpenCV**: For face detection using Haar Cascades.
 
 ---
-
-This `README.md` provides an overview of your project, the necessary setup instructions, and additional details on how to run the code. Let me know if you need any modifications or more specific sections added!
